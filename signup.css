@@ -1,0 +1,10 @@
+
+.button-color{
+    color:red;
+}
+.button-color:hover{
+    color:white;
+}
+.warning {
+    color:red;
+}
